@@ -1,6 +1,6 @@
 # React Pokedex
 
-<img src='public/pokemon-cards.png' alt='' height='350' width='600'>
+<img src='pokedex/public/pokemon-cards.png' alt='' height='350' width='600'>
 
 ## Description: 
 
