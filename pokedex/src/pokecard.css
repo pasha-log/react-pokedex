@@ -1,0 +1,22 @@
+.title-holder {
+    text-align: center;
+}
+
+.Pokecard {
+    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+    background-color: rgb(253, 211, 4);
+    border: 1em solid rgb(47, 47, 209);
+    border-radius: 0.6em;
+    margin: 1.25em 20%;
+	padding: 1.25em;
+    text-align: center;
+    width: min-content;
+}
+
+.Pokecard-name {
+    color:rgb(47, 47, 209);
+}
+
+.Pokecard-img {
+    width: 9em;
+}
